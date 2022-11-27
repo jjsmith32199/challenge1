@@ -89,7 +89,7 @@ p {
     background-color: #2589bd;
     ;
 }
-
+/* Code for text margins for the right side bar info was condensed to reduce lines of code needed to produce the same effect */
 .benefit-brand, .benefit-cost, .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,7 +105,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Reduced lines of code for the following tags as well */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
